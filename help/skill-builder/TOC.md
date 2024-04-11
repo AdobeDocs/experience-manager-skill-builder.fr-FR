@@ -1,19 +1,19 @@
 ---
 user-guide-title: AEM Skill Builder
-user-guide-description: Série de webinaires enregistrés pour créer votre base de connaissances et maximiser votre investissement dans Adobe [!DNL Experience Manager].
+user-guide-description: Série de webinaires enregistrés permettant dʼaméliorer vos connaissances et dʼoptimiser votre utilisation dʼAdobe  [!DNL Experience Manager].
 source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '53'
-ht-degree: 16%
+ht-degree: 100%
 
 ---
 
 
-# AEM d’enregistrements de Skill Builder{#skill-builder}
+# Enregistrements d’AEM Skill Builder{#skill-builder}
 
-* [AEM d’enregistrements de Skill Builder](overview.md)
+* [Enregistrements d’AEM Skill Builder](overview.md)
 * 2019 {#2019}
-   * [Test des bonnes pratiques avec [!DNL Cloud Manager]](./2019/cloud-manager-testing.md)
+   * [Tester les bonnes pratiques avec  [!DNL Cloud Manager]](./2019/cloud-manager-testing.md)
 * 2020 {#2020}
    * [[!DNL Asset Link]](./2020/asset-link.md)
    * [Brand Portal](./2020/brand-portal.md)

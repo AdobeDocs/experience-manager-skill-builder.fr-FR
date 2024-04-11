@@ -1,6 +1,6 @@
 ---
-title: Créez rapidement de belles expériences web
-description: Découvrez les notions fondamentales et les compétences de création pour créer et modifier rapidement des pages
+title: Créer rapidement de belles expériences web
+description: Acquérir les notions fondamentales et les compétences de création pour créer et modifier rapidement des pages
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -13,26 +13,26 @@ type: Event
 kt: 8945
 exl-id: cc4b57a5-c76a-48fa-9c05-39374081fc45
 source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '151'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Adobe [!DNL Experience Manager Sites] principes de base
+# Principes de base d’Adobe [!DNL Experience Manager Sites]
 
-Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 parties. Nous allons commencer par les blocs de création de contenu tout en vous présentant les concepts et les opérations fondamentaux. Cela inclut les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans la partie ultérieure de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficaces en réutilisant le contenu et en le diffusant sur plusieurs canaux.
+Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 volets. Nous allons commencer par les blocs de création de contenu tout en vous présentant les concepts fondamentaux et les opérations. Nous verrons notamment les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans le volet suivant de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficaces en réutilisant le contenu et en le diffusant sur plusieurs canaux.
 
-## Créez rapidement de belles expériences web
+## Créer rapidement de belles expériences web
 
 >[!VIDEO](https://video.tv.adobe.com/v/337014/?quality=12&learn=on&hidetitle=true)
 
-Découvrez les notions fondamentales et les compétences de création pour créer et modifier rapidement des pages.
+Acquérez les notions fondamentales et les compétences de création pour créer et modifier rapidement des pages.
 
-## Enregistrements de séries
+## Enregistrements des séries
 
-* [Ne perdez plus de temps à trouver le contenu](media-library-administration.md)
-* [Gérer facilement du contenu en constante modification](collaboration-tools.md)
-* [Contenu pour ANYWHERE : réalisation d’une expérience omnicanal](omnichannel-experiences.md)
-* [Go Global with Adobe Experience Manager](multi-site-management-web-translation.md)
-* [Le web et au-delà : la puissance de la gestion de contenu classique et sans affichage](traditional-headless-content-management.md)
+* [Ne plus perdre de temps à trouver le contenu](media-library-administration.md)
+* [Gérer facilement du contenu en constante évolution](collaboration-tools.md)
+* [Contenu pour ANYWHERE : réaliser une expérience omnicanal](omnichannel-experiences.md)
+* [Rayonner à l’international avec Adobe Experience Manager](multi-site-management-web-translation.md)
+* [Le web et au-delà - La puissance de la gestion de contenu classique et découplé](traditional-headless-content-management.md)

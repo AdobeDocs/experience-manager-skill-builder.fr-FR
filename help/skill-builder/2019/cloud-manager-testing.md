@@ -1,5 +1,5 @@
 ---
-title: Test des bonnes pratiques avec Cloud Manager - Septembre 2019
+title: Tester les bonnes pratiques avec Cloud Manager - Septembre 2019
 description: Description ici
 sub-product: cloud-manager
 feature: Cloud Manager
@@ -8,22 +8,22 @@ type: Event
 audience: developer
 exl-id: f0e1feba-a12a-49c1-b5e2-fa4de9e3c49d
 source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '29'
-ht-degree: 3%
+ht-degree: 100%
 
 ---
 
-# Test des bonnes pratiques avec [!DNL Cloud Manager] - Septembre 2019
+# Tester les bonnes pratiques avec [!DNL Cloud Manager] - Septembre 2019
 
 >[!VIDEO](https://video.tv.adobe.com/v/329028/?quality=9&learn=on)
 
 
-**Présentateurs**
+**Présentateurs et présentatrices**
 
-* Justin Edelson, chef de produit
-* Patrick Kynaston - Ingénieur du service client
+* Justin Edelson, chef de produit
+* Patrick Kynaston, ingénieur du succès client
 
 ## Ressources
 
-[Présentation du téléchargement](./assets/CloudManagerWebinarSeptember2019.pdf)
+[Télécharger la présentation](./assets/CloudManagerWebinarSeptember2019.pdf)
