@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 8936
 exl-id: 68c48c94-1878-4bdb-af7d-d6e4f88f9315
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '170'
-ht-degree: 100%
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+workflow-type: tm+mt
+source-wordcount: '169'
+ht-degree: 64%
 
 ---
 
 # Principes de base d’Adobe [!DNL Experience Manager Sites]
 
-Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 volets. Nous allons commencer par les blocs de création de contenu tout en vous présentant les concepts fondamentaux et les opérations. Nous verrons notamment les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans le volet suivant de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficaces en réutilisant le contenu et en le diffusant sur plusieurs canaux.
+Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 volets. La série commence par les blocs de création de contenu, tout en vous familiarisant avec les concepts et opérations fondamentaux. Elle comprend les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans la dernière partie de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficaces en réutilisant le contenu et en le diffusant sur plusieurs canaux.
 
 ## Rayonner à l’international avec Adobe Experience Manager
 

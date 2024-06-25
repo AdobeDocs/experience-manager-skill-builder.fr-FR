@@ -1,6 +1,6 @@
 ---
-title: Créer rapidement de belles expériences web
-description: Acquérir les notions fondamentales et les compétences de création pour créer et modifier rapidement des pages
+title: Créer rapidement des expériences web attrayantes
+description: Découvrez les notions fondamentales et les compétences de création pour créer et modifier rapidement des pages.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -12,22 +12,22 @@ version: Cloud Service
 type: Event
 kt: 8945
 exl-id: cc4b57a5-c76a-48fa-9c05-39374081fc45
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '151'
-ht-degree: 100%
+source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
+workflow-type: tm+mt
+source-wordcount: '150'
+ht-degree: 42%
 
 ---
 
 # Principes de base d’Adobe [!DNL Experience Manager Sites]
 
-Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 volets. Nous allons commencer par les blocs de création de contenu tout en vous présentant les concepts fondamentaux et les opérations. Nous verrons notamment les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans le volet suivant de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficaces en réutilisant le contenu et en le diffusant sur plusieurs canaux.
+Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 volets. La série commence par les blocs de création de contenu, tout en vous familiarisant avec les concepts et opérations fondamentaux. Elle comprend les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans la dernière partie de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficaces en réutilisant le contenu et en le diffusant sur plusieurs canaux.
 
 ## Créer rapidement de belles expériences web
 
 >[!VIDEO](https://video.tv.adobe.com/v/337014/?quality=12&learn=on&hidetitle=true)
 
-Acquérez les notions fondamentales et les compétences de création pour créer et modifier rapidement des pages.
+Découvrez les compétences fondamentales de création pour créer et modifier rapidement des pages.
 
 ## Enregistrements des séries
 

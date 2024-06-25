@@ -12,16 +12,16 @@ version: Cloud Service
 type: Event
 kt: 7340
 exl-id: 9070f559-b364-4d8f-a60a-1bda65fc4ca1
-source-git-commit: 24d6605ccb5e204721246ab64283be8570ace16e
-workflow-type: ht
-source-wordcount: '133'
-ht-degree: 100%
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
+workflow-type: tm+mt
+source-wordcount: '108'
+ht-degree: 53%
 
 ---
 
 # Brand Portal - Série Adobe [!DNL Experience Manager Assets]
 
-Regardez cette série de webinaires en cinq volets pour améliorer vos connaissances et optimiser votre utilisation dʼAdobe [!DNL Experience Manager Assets]. Si vous débutez avec Adobe [!DNL Experience Manager Assets], ou utilisez Adobe [!DNL Experience Manager Assets] depuis un moment et que vous cherchez à vous perfectionner, c’est le moyen idéal pour découvrir en détail cinq des parties les plus importantes de la solution. Les expertes et experts d’Adobe passeront en revue les principes de base et vous donneront également des informations avancées qui vous permettront d’effectuer immédiatement les prochaines étapes.
+Regardez cette série de webinaires en cinq volets pour améliorer vos connaissances et optimiser votre utilisation dʼAdobe [!DNL Experience Manager Assets]. Amélioration de la maîtrise de l’Adobe [!DNL Experience Manager Assets], que vous soyez débutant ou expérimenté. Découvrez les cinq aspects essentiels de la plate-forme grâce à ce guide complet. Les experts d’Adobe passent en revue les principes de base et fournissent également des informations avancées qui vous permettent de mettre en pratique immédiatement les prochaines étapes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332133/?quality=12&learn=on&hidetitle=true)
 
@@ -29,9 +29,9 @@ Brand Portal permet de partager facilement des ressources avec des équipes int
 
 ## Ressources
 
-* [Vue d’ensemble de [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal.html?lang=fr)
-* Vidéos de [[!UICONTROL Brand Portal]](https://experienceleague.adobe.com/docs/experience-manager-learn/assets/sharing/brand-portal.html?lang=fr)
-* Approvisionnement des [[!DNL Asset] ](https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=fr)
+* [Vue d’ensemble de [!UICONTROL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/introduction/brand-portal)
+* Vidéos de [[!UICONTROL Brand Portal]](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* Approvisionnement des [[!DNL Asset] ](https://experienceleague.adobe.com/en/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## Enregistrements des séries
 

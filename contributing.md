@@ -1,15 +1,15 @@
 ---
-source-git-commit: 0e74aa727f7d4f874cfc1fc0cfc18a7c30d83e73
+source-git-commit: e184d1b56ed23c42e1445434b7ad1e77874566b3
 workflow-type: tm+mt
-source-wordcount: '281'
-ht-degree: 100%
+source-wordcount: '292'
+ht-degree: 56%
 
 ---
-# Contribution
+# Contribution à la documentation de Adobe Experience Manager Skill Builder
 
-Merci d’avoir choisi d’apporter votre contribution !
+Merci d’avoir choisi de contribuer à la documentation d’Adobe Experience Manager Screens. Adobe accueille favorablement les contributions de l’ensemble de la communauté des lecteurs, des lectrices, des collaborateurs et des collaboratrices d’Adobe.
 
-Vous trouverez ci-dessous un ensemble de directives à suivre lorsque vous contribuez à ce projet.
+Ce fichier décrit comment contribuer à la documentation ainsi que les directives à suivre lors de l’apport de vos contributions.
 
 ## Code de conduite
 
@@ -19,7 +19,7 @@ implique le respect de ce code. Veuillez signaler tout comportement inacceptable
 
 ## Guide du contributeur
 
-Voir le [Guide du contributeur](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=fr).
+Voir le [Guide du contributeur](https://experienceleague.adobe.com/fr/docs/contributor/contributor-guide/introduction).
 
 ## Vous avez une question ?
 
@@ -27,14 +27,11 @@ Commencez par signaler un problème. Les validateurs de ce projet peuvent parven
 
 ## Contrat de licence du contributeur
 
-Toutes les contributions tierces à ce projet doivent être accompagnées d’un contrat de licence de contributeur
-signé. permettant d’autoriser Adobe à redistribuer vos contributions
-dans le cadre du projet. [Signez notre contrat de licence du contributeur](http://opensource.adobe.com/cla.html). Vous n’avez besoin de soumettre un CLA Adobe qu’une seule fois. Par conséquent, si vous l’avez déjà soumis, vous n’avez rien à faire.
+Un contrat de licence de contributeur signé doit accompagner toutes les contributions tierces à ce projet. Cet accord autorise l&#39;Adobe à redistribuer vos contributions dans le cadre du projet. [Contrat de licence de l’Adobe de signature](https://opensource.adobe.com/cla.html). Vous n’avez besoin de soumettre un CLA Adobe qu’une seule fois. Par conséquent, si vous l’avez déjà soumis, vous n’avez rien à faire.
 
 ## Révision du code
 
-Toutes les soumissions doivent prendre la forme de demandes d’extraction et doivent être examinées
-par les validateurs du projet. Lisez la [documentation relative aux demandes d’extraction de GitHub](https://help.github.com/articles/about-pull-requests/) pour plus d’informations sur l’envoi de demandes d’extraction.
+Toutes les soumissions doivent prendre la forme de demandes d’extraction. Les validateurs de projet examinent les envois. Lisez la [documentation relative aux demandes d’extraction de GitHub](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests) pour plus d’informations sur l’envoi de demandes d’extraction.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
@@ -43,11 +40,8 @@ submitting a pull request!
 
 ## De contributeur à validateur
 
-Nous apprécions les contributions de notre communauté. Si vous souhaitez faire davantage que contribuer et devenir un validateur pour disposer d’un accès en écriture complet et avoir le droit de participer aux décisions concernant le voix au chapitre dans le projet, vous devez
-être invité au projet. Les validateurs utilisent un processus de nomination
-interne qui doit atteindre un consensus avant l’envoi des invitations. Dans ce processus, le silence vaut approbation. Si vous pensez être qualifié et souhaitez vous impliquer davantage,
-n’hésitez pas à contacter les validateurs pour en discuter.
+Adobe accueille favorablement les contributions de la communauté. Si vous souhaitez devenir un validateur disposant d’un accès en écriture complet et d’une voix dans le projet, vous devez être invité au projet. Les validateurs existants utilisent un processus de nomination interne qui doit atteindre un consensus différé (le silence est approbation) avant l’envoi des invitations. Si vous êtes qualifié et souhaitez être plus impliqué, contactez les validateurs existants.
 
 ## Problèmes de sécurité
 
-Les problèmes de sécurité ne doivent pas être signalés dans ce suivi de problèmes. Au lieu de cela, [soumettez un problème à nos experts en sécurité](https://helpx.adobe.com/fr/security/alertus.html).
+Les problèmes de sécurité ne doivent pas être signalés dans ce suivi de problèmes. Au lieu de cela, [signaler un problème aux experts en sécurité des Adobes](https://helpx.adobe.com/fr/security/alertus.html)
