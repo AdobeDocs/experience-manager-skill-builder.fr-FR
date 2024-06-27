@@ -13,15 +13,15 @@ type: Event
 kt: 8936
 exl-id: 68c48c94-1878-4bdb-af7d-d6e4f88f9315
 source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '169'
-ht-degree: 64%
+ht-degree: 100%
 
 ---
 
 # Principes de base d’Adobe [!DNL Experience Manager Sites]
 
-Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 volets. La série commence par les blocs de création de contenu, tout en vous familiarisant avec les concepts et opérations fondamentaux. Elle comprend les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans la dernière partie de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficaces en réutilisant le contenu et en le diffusant sur plusieurs canaux.
+Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 volets. La série commence par les blocs de création de contenu, tout en vous présentant les concepts fondamentaux et les opérations. Elle inclut notamment les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans la dernière partie de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficace en réutilisant le contenu et en le diffusant sur plusieurs canaux.
 
 ## Rayonner à l’international avec Adobe Experience Manager
 
@@ -35,4 +35,4 @@ Découvrez les principes de base de la gestion de plusieurs sites et de la tradu
 * [Ne plus perdre de temps à trouver le contenu](media-library-administration.md)
 * [Gérer facilement du contenu en constante évolution](collaboration-tools.md)
 * [Contenu pour ANYWHERE : réaliser une expérience omnicanal](omnichannel-experiences.md)
-* [Le web et au-delà - La puissance de la gestion de contenu classique et découplé](traditional-headless-content-management.md)
+* [Web et au-delà - Puissance de la gestion de contenu classique et découplé](traditional-headless-content-management.md)

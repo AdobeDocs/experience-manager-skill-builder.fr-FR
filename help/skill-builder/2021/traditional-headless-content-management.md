@@ -1,6 +1,6 @@
 ---
-title: Le web et au-delà - La puissance de la gestion de contenu classique et découplé
-description: Découvrez comment les structures CMS traditionnelles et sans interface façonnent l’avenir de la gestion de contenu et de la diffusion d’expérience numérique.
+title: Web et au-delà - Puissance de la gestion de contenu classique et découplé
+description: Découvrez comment les frameworks CMS classiques et découplés façonnent l’avenir de la gestion de contenu et de la diffusion d’expérience numérique.
 solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
 product: experience manager
 sub-product: sites
@@ -13,17 +13,17 @@ type: Event
 kt: 8938
 exl-id: 86f2ce11-9603-4848-9626-46ed49ef821a
 source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '153'
-ht-degree: 49%
+ht-degree: 100%
 
 ---
 
 # Principes de base d’Adobe [!DNL Experience Manager Sites]
 
-Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 volets. La série commence par les blocs de création de contenu, tout en vous familiarisant avec les concepts et opérations fondamentaux. Elle comprend les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans la dernière partie de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficaces en réutilisant le contenu et en le diffusant sur plusieurs canaux.
+Découvrez comment créer des expériences client riches et attrayantes dans Adobe Experience Manager dans cette série de webinaires en 5 volets. La série commence par les blocs de création de contenu, tout en vous présentant les concepts fondamentaux et les opérations. Elle inclut notamment les fonctionnalités d’administration de sites et les principes de base de la gestion des ressources numériques dans AEM. Dans la dernière partie de la série, découvrez des fonctionnalités qui peuvent vous aider à gagner du temps et à être plus efficace en réutilisant le contenu et en le diffusant sur plusieurs canaux.
 
-## Le web et au-delà - La puissance de la gestion de contenu classique et découplé
+## Web et au-delà - Puissance de la gestion de contenu classique et découplé
 
 >[!VIDEO](https://video.tv.adobe.com/v/336949/?quality=12&learn=on&hidetitle=true)
 

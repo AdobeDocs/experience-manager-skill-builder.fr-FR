@@ -3,26 +3,26 @@ title: Vue d’ensemble de Skill Builder
 description: Série de webinaires enregistrés permettant dʼaméliorer vos connaissances et dʼoptimiser votre utilisation dʼAdobe Experience Manager.
 exl-id: 2aa648cc-6a44-4d1d-98ab-a351abc80b6b
 source-git-commit: 3e74a84c1a0336bcaa4d7aff43169ed769a66822
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '96'
-ht-degree: 69%
+ht-degree: 100%
 
 ---
 
 # Enregistrements d’[!DNL Experience Manager] Skill Builder
 
-Bienvenue dans l’Adobe [!DNL Experience Manager] Page d’accueil des enregistrements de Skill Builder avec des webinaires enregistrés conçus pour créer votre base de connaissances et maximiser votre investissement dans Adobe [!DNL Experience Manager].
+Bienvenue dans la page d’accueil des enregistrements Adobe [!DNL Experience Manager] Skill Builder avec des webinaires enregistrés conçus pour créer votre base de connaissances et maximiser votre investissement dans Adobe [!DNL Experience Manager].
 
 ## Nouveautés
 
 <table>
 <tr>
   <td>
-    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/2020/asset-link">
+    <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-skill-builder/skill-builder/2020/asset-link">
       <img alt="[!DNL Asset Link]" src="assets/332127.jpeg" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/2020/asset-link">
+      <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-skill-builder/skill-builder/2020/asset-link">
     <strong>[!DNL Asset Link]</strong>
     </a>
     </div>
@@ -31,11 +31,11 @@ Bienvenue dans l’Adobe [!DNL Experience Manager] Page d’accueil des enregist
     <p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/2020/brand-portal">
+    <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-skill-builder/skill-builder/2020/brand-portal">
     <img alt="Brand Portal" src="assets/332133.jpeg" />
     </a>
     <div>
-    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/2020/brand-portal">
+    <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-skill-builder/skill-builder/2020/brand-portal">
 <strong>Brand Portal</strong>
 </a>
     </div>
@@ -44,11 +44,11 @@ Bienvenue dans l’Adobe [!DNL Experience Manager] Page d’accueil des enregist
     </p>
   </td>
   <td>
-    <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/2020/dynamic-media">
+    <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-skill-builder/skill-builder/2020/dynamic-media">
       <img alt="[!DNL Dynamic Media]" src="assets/332132.jpeg" />
     </a>
      <div>
-      <a href="https://experienceleague.adobe.com/en/docs/experience-manager-skill-builder/skill-builder/2020/dynamic-media">
+      <a href="https://experienceleague.adobe.com/fr/docs/experience-manager-skill-builder/skill-builder/2020/dynamic-media">
         <strong>[!DNL Dynamic Media]</strong>
       </a>
     </div>

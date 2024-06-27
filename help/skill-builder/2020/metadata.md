@@ -13,15 +13,15 @@ type: Event
 kt: 7339
 exl-id: 35b85f97-ffe4-43f9-98ae-dae0d36bae91
 source-git-commit: 2cc786333e88439d68bd1f7d332e53f8714a76f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '127'
-ht-degree: 35%
+ht-degree: 100%
 
 ---
 
 # Métadonnées - Série Adobe [!DNL Experience Manager Assets]
 
-Regardez cette série de webinaires en cinq volets pour améliorer vos connaissances et optimiser votre utilisation dʼAdobe [!DNL Experience Manager Assets]. Parfait pour les nouveaux arrivants et les utilisateurs chevronnés, cette session offre une exploration complète de l’Adobe. [!DNL Experience Manager Assets]est cinq fonctionnalités essentielles pour la solution. Les experts d’Adobe passent en revue les principes de base et fournissent également des informations avancées qui vous permettent de mettre en pratique immédiatement les prochaines étapes.
+Regardez cette série de webinaires en cinq volets pour améliorer vos connaissances et optimiser votre utilisation dʼAdobe [!DNL Experience Manager Assets]. Idéale pour les personnes novices et chevronnées, cette session explore en détail les cinq fonctionnalités essentielles d’Adobe [!DNL Experience Manager Assets] pour maîtriser la solution. Les expertes et experts d’Adobe passent en revue les principes de base et vous donneront également des informations avancées qui vous permettent d’effectuer immédiatement les prochaines étapes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332134/?quality=12&learn=on&hidetitle=true)
 
@@ -29,12 +29,12 @@ Mettre en place une stratégie claire pour optimiser la capacité de découverte
 
 ## Ressources
 
-*[Utilisation de schémas de métadonnées pour gérer les métadonnées de ressources](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/authoring/metadata)
-*[Étendre les schémas de métadonnées](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[Optimisation de la création de métadonnées avec des métadonnées en cascade](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
-*[Application automatique de métadonnées aux ressources à l’aide de profils de métadonnées](https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/configuring/metadata-profiles)
-*[AEM des schémas de métadonnées](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
-*[Gestion des métadonnées des ressources](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
+*[Utiliser des schémas de métadonnées pour gérer les métadonnées de ressources](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/authoring/metadata)
+*[Étendre des schémas de métadonnées](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/configuring/metadata-schemas)
+*[Optimiser la création de métadonnées avec des métadonnées en cascade](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[Appliquer automatiquement des métadonnées aux ressources à l’aide de profils de métadonnées](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/configuring/metadata-profiles)
+*[Schémas de métadonnées AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
+*[Gérer les métadonnées des ressources](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
 
 ## Enregistrements des séries
 
