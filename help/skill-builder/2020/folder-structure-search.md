@@ -29,9 +29,9 @@ Principes de base de la configuration et de l’utilisation de la gestion des re
 
 ## Ressources
 
-* Guide d’utilisation [[!DNL AEM Assets] ](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/assets/assets)
-* [Configuration de votre structure de dossiers  [!DNL AEM Assets] ](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/configuring/baseline-folders)
-* [Configurer les autorisations de dossier  [!DNL AEM Assets] ](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/configuring/baseline-permissions)
+* Guide d’utilisation [[!DNL AEM Assets] &#x200B;](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/assets/assets)
+* [Configuration de votre structure de dossiers  [!DNL AEM Assets] &#x200B;](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/configuring/baseline-folders)
+* [Configurer les autorisations de dossier  [!DNL AEM Assets] &#x200B;](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/configuring/baseline-permissions)
 * [Utiliser les collections pour organiser et partager des ressources](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/search-and-discovery/collections)
 * [Rechercher des ressources visuellement similaires avec le machine learning](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/search-and-discovery/search)
 * [Obtenir des résultats de recherche précis avec les facettes de recherche dynamique](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/search-and-discovery/search)

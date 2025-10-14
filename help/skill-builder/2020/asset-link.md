@@ -29,7 +29,7 @@ Regardez cette série de webinaires en cinq volets pour améliorer vos connaiss
 
 ## Ressources
 
-* [Vidéos Adobe  [!DNL Asset Link] ](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
+* [Vidéos Adobe  [!DNL Asset Link] &#x200B;](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/adobe-asset-link/launch-adobe-asset-link)
 * [[!DNL Asset Link]  pour Adobe XD](https://helpx.adobe.com/fr/enterprise/using/adobe-asset-link-for-xd.html)
 * [Configurer  [!DNL AEM Assets]  6.5 et 6.4 pour Adobe  [!DNL Asset Link]](https://helpx.adobe.com/fr/enterprise/using/configure-aem-assets-6-for-asset-link.html)
 * [Configurer  [!DNL AEM as a Cloud Service]  pour Adobe  [!DNL Asset Link]](https://helpx.adobe.com/fr/enterprise/using/configure-aem-assets-for-asset-link.html)
