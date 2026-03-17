@@ -1,7 +1,7 @@
 ---
 title: Rayonner à l’international avec Adobe Experience Manager
 description: Découvrez les principes de base de la gestion de plusieurs sites et de la traduction de contenu web avec des conseils sur la conception d’une structure de site web globale.
-solution: "[!DNL Experience Manager],[!DNL Experience Manager Sites]"
+solution: Experience Manager,Experience Manager Sites
 product: experience manager
 sub-product: sites
 feature: Multi Site Manager
@@ -12,10 +12,10 @@ version: Experience Manager as a Cloud Service
 type: Event
 kt: 8936
 exl-id: 68c48c94-1878-4bdb-af7d-d6e4f88f9315
-source-git-commit: 88778b44085fa79695d92f37f167b000be357965
+source-git-commit: c221dbcf45e748f545dac0c2b511f33a7dbb8dac
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '174'
+ht-degree: 100%
 
 ---
 
