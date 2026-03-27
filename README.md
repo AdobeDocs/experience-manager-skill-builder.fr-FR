@@ -15,13 +15,13 @@ Ce projet a adopté le [Code de conduite d’Adobe Open Source](code-of-conduct.
 
 ## À propos de vos contributions au contenu d’Adobe
 
-Consultez le Guide du contributeur aux documents Adobe [&#128279;](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction).
+Consultez le Guide du contributeur aux documents Adobe [&#128279;](https://experienceleague.adobe.com/fr/docs/contributor/contributor-guide/introduction).
 
 La façon dont vous contribuez dépend de qui vous êtes et du type de changements que vous souhaitez apporter :
 
 ### Modifications mineures
 
-Si vous apportez des modifications mineures de bon cœur, lisez l’article et cliquez sur le lien **Modifier** de l’article, qui renvoie à la source GitHub de l’article. Ensuite, utilisez simplement l’interface utilisateur GitHub pour effectuer vos mises à jour. Pour plus d’informations[&#128279;](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction) consultez le guide du contributeur aux documents Adobe .
+Si vous apportez des modifications mineures de bon cœur, lisez l’article et cliquez sur le lien **Modifier** de l’article, qui renvoie à la source GitHub de l’article. Ensuite, utilisez simplement l’interface utilisateur GitHub pour effectuer vos mises à jour. Pour plus d’informations[&#128279;](https://experienceleague.adobe.com/fr/docs/contributor/contributor-guide/introduction) consultez le guide du contributeur aux documents Adobe .
 
 Les modifications ou précisions mineures que vous apportez aux documents et aux exemples de code dans ce référentiel sont soumises aux conditions d’utilisation d’Adobe.
 
@@ -43,7 +43,7 @@ Les rédacteurs techniques, les gestionnaires de programme et les développeurs 
 
 Les contributeurs de la communauté peuvent utiliser l’interface utilisateur de GitHub pour apporter des modifications mineures, ou dupliquer le référentiel pour apporter des contributions majeures.
 
-Pour plus d’informations, consultez le Guide du contributeur aux documents Adobe [&#128279;](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction).
+Pour plus d’informations, consultez le Guide du contributeur aux documents Adobe [&#128279;](https://experienceleague.adobe.com/fr/docs/contributor/contributor-guide/introduction).
 
 ## Comment utiliser Markdown pour formater votre rubrique
 
