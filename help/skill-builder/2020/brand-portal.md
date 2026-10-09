@@ -38,8 +38,8 @@ Brand Portal permet de partager facilement des ressources avec des équipes int
 
 ## Ressources
 
-* [Présentation de ](https://experienceleague.adobe.com/fr/docs/experience-manager-brand-portal/using/introduction/brand-portal)
-* [[!UICONTROL Vidéos ]](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
+* [Présentation de &#x200B;](https://experienceleague.adobe.com/fr/docs/experience-manager-brand-portal/using/introduction/brand-portal)
+* [[!UICONTROL Vidéos &#x200B;]](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/sharing/brand-portal/brand-portal)
 * [approvisionnement [!DNL Asset]](https://experienceleague.adobe.com/fr/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing)
 
 ## Enregistrements des séries

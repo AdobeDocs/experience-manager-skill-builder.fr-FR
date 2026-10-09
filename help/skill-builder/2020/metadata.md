@@ -40,7 +40,7 @@ Mettre en place une stratégie claire pour optimiser la capacité de découverte
 
 *[Utilisation de schémas de métadonnées pour gérer les métadonnées des ressources](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/authoring/metadata)
 *[Extension de schémas de métadonnées](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/configuring/metadata-schemas)
-*[ Optimiser la création de métadonnées avec des métadonnées en cascade](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
+*[&#x200B; Optimiser la création de métadonnées avec des métadonnées en cascade](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/metadata/cascade-metadata-feature-video-use)
 *[Application automatique de métadonnées aux ressources à l’aide de profils de métadonnées](https://experienceleague.adobe.com/fr/docs/experience-manager-learn/assets/configuring/metadata-profiles)
 *[Schémas De Métadonnées AEM](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/assets/administer/metadata-schemas#administer)
 *[Gestion des métadonnées des ressources](https://experienceleague.adobe.com/fr/docs/experience-manager-65/content/assets/using/metadata#RegisteringacustomnamespacewithinAEM)
